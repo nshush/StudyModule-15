@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\StudyModule-15\Workshop\Task1566\bin\Debug\net8.0\Task1566.exe
+C:\Users\ACER\source\repos\StudyModule-15\Workshop\Task1566\bin\Debug\net8.0\Task1566.deps.json
+C:\Users\ACER\source\repos\StudyModule-15\Workshop\Task1566\bin\Debug\net8.0\Task1566.runtimeconfig.json
+C:\Users\ACER\source\repos\StudyModule-15\Workshop\Task1566\bin\Debug\net8.0\Task1566.dll
+C:\Users\ACER\source\repos\StudyModule-15\Workshop\Task1566\bin\Debug\net8.0\Task1566.pdb
+C:\Users\ACER\source\repos\StudyModule-15\Workshop\Task1566\obj\Debug\net8.0\Task1566.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\StudyModule-15\Workshop\Task1566\obj\Debug\net8.0\Task1566.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\StudyModule-15\Workshop\Task1566\obj\Debug\net8.0\Task1566.AssemblyInfo.cs
+C:\Users\ACER\source\repos\StudyModule-15\Workshop\Task1566\obj\Debug\net8.0\Task1566.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\StudyModule-15\Workshop\Task1566\obj\Debug\net8.0\Task1566.sourcelink.json
+C:\Users\ACER\source\repos\StudyModule-15\Workshop\Task1566\obj\Debug\net8.0\Task1566.dll
+C:\Users\ACER\source\repos\StudyModule-15\Workshop\Task1566\obj\Debug\net8.0\refint\Task1566.dll
+C:\Users\ACER\source\repos\StudyModule-15\Workshop\Task1566\obj\Debug\net8.0\Task1566.pdb
+C:\Users\ACER\source\repos\StudyModule-15\Workshop\Task1566\obj\Debug\net8.0\Task1566.genruntimeconfig.cache
+C:\Users\ACER\source\repos\StudyModule-15\Workshop\Task1566\obj\Debug\net8.0\ref\Task1566.dll
